@@ -1,0 +1,14 @@
+# ambiente
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# dados gerados em runtime (nunca commitar memória de usuários)
+data/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
