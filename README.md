@@ -41,7 +41,7 @@ docker exec ollama ollama pull llama3.2:3b
 ### 2. Clone and install
 
 ```bash
-git clone https://github.com/your-username/local-agent-kit.git
+git clone https://github.com/pablobelmiro/agent-memory
 cd local-agent-kit
 
 python -m venv .venv
